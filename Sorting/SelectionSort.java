@@ -4,7 +4,7 @@ public class SelectionSort {
     public static void main(String[] args) {
         int temp=0,i,j,minIndex=-1;
         Scanner scanner= new Scanner(System.in);
-        System.out.println("Merge Sort Example:");
+        System.out.println("Selection Sort Example:");
         System.out.println("Enter the number of inputs:");
         int n=scanner.nextInt();
         int[] arr=new int[n];
