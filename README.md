@@ -68,7 +68,11 @@ If you have any questions or need assistance, please feel free to open an issue 
 Happy coding!
 
 ## Our Contributors
-![image](https://github.com/shree0241/Java-Algorithms/assets/148993436/d42fe100-e67a-45f8-b31d-a1a9b5fe0c17)
+<a href="https://github.com/shree0241/Java-Algorithms/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=shree0241/Java-Algorithms" />
+</a>
+
+
 
 
 
